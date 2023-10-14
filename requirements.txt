@@ -1,5 +1,11 @@
 pandas
 numpy
 seaborn
--e .      #written to run setup.py and build package everytime a requirements.txt is run
+matplotlib
+scikit-learn
+catboost
+xgboost
+# -e .
+
+
 
